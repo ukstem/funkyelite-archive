@@ -1,5 +1,4 @@
 # funkyelite-archive
-# FunkyElite Archive
 
 A preserved snapshot of **funkyelite.com** — my original online Guest List Portal
 for London's premier clubs from the late '90s and 2000s.
